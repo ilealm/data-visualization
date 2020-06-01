@@ -6,6 +6,10 @@ authors = ["Iris Leal <iris_leal_m@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+jupyterlab = "^2.1.4"
+pandas = "^1.0.4"
+numpy = "^1.18.4"
+matplotlib = "^3.2.1"
 
 [tool.poetry.dev-dependencies]
 
